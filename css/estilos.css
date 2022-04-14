@@ -1,6 +1,14 @@
 body
 {
-    text-align: center;
+    text-align: left;
     font-family: Arial;
-    color: deeppink;
+    color: rgb(20, 255, 184);
+}
+#conteiner
+{
+width: 100%;
+padding:1em;
+text-align: left;
+border: 10px solid rgba(38, 15, 187, 0.867);
+margin: 0 auto;
 }
