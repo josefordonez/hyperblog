@@ -4,11 +4,31 @@ body
     font-family: 'Courier New', Courier, monospace;
     color: rgb(8, 11, 10);
 }
+#cabecera
+{
+    background-color: rgb(41, 112, 244);
+    box-shadow:0px 2px 5px 0px crimson;
+    color: blanchedalmond;
+    margin-top: auto;
+    padding: 0.5em;
+    font-weight: bold;
+}
+
+#cabecera #tagline 
+{
+
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+    color: rgb(7, 72, 72);
+
+}
+
 #conteiner
 {
-width: 100%;
+width: 70%;
 padding:1em;
 text-align: left;
-border: 10px solid rgba(38, 15, 187, 0.867);
+border: 1px solid rgba(38, 15, 187, 0.867);
 margin: 0 auto;
 }
